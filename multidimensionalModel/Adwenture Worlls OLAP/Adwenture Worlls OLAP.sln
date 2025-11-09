@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Adwenture Worlls OLAP", "Adwenture Worlls OLAP\Adwenture Worlls OLAP.dwproj", "{859BBE78-44C8-4BEE-2D7F-20024BD93A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{859BBE78-44C8-4BEE-2D7F-20024BD93A4A}.Development|Default.ActiveCfg = Development
+		{859BBE78-44C8-4BEE-2D7F-20024BD93A4A}.Development|Default.Build.0 = Development
+		{859BBE78-44C8-4BEE-2D7F-20024BD93A4A}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A3BF015-E828-44FC-97BC-C2D42F0CB2F0}
+	EndGlobalSection
+EndGlobal
