@@ -14,4 +14,5 @@ Dokument ten zawiera:
 - odpytywanie modelu tabelarycznego w języku DAX oraz wielowymairowego w języku MDX
 - screeny z SSMS / VS / Excel
 
-Dokumentacja stanowi **główną część opisu projektu** i pozwala zrozumieć wszystkie wdrożone elementy.
+Dokumentacja stanowi główną część opisu projektu i pozwala zrozumieć wszystkie wdrożone elementy.
+Link do pobrania bazy dancyh wykorzystywanej w projkecie [https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0)
